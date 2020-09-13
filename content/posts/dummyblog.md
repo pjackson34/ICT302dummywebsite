@@ -5,4 +5,4 @@ draft: false
 ---
 This is the dummy blog post for the dummy website. I used previous experience from creating weekly learning
 reports to make this blog post. This assignment is re-enforcing my skills that I have learned so far while
-using GitHub, and Netlify. 
+using GitHub, and Netlify.

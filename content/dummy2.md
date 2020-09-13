@@ -3,7 +3,7 @@ title: "Dummy Page 2"
 date: 2020-09-13T00:00:00-04:00
 draft: false
 ---
-<h2>Annotated Definitions Report</h2>
+## Annotated Definitions Report
 
  I know words. I have the best words. Despite the constant negative ipsum covfefe. I think the only card she has is the Lorem card.
 

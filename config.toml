@@ -45,3 +45,7 @@ name = "Dummy Page 2"
 weight = 1
 url = "https://competent-northcutt-725a94.netlify.app/dummy2/"
 
+[[menu.main]]
+name = "Dummy Page 3"
+weight = 1
+url = "https://competent-northcutt-725a94.netlify.app/dummy3/"
